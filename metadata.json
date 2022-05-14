@@ -1,0 +1,9 @@
+{
+  "name":"OurTools",
+  "description":"Utility toolbox including OurFilter, OurIgnore, and OurAFK.",
+  "creator":"ComPewPer",
+  "version":"3.8.2",
+  "entry":"index.js",
+  "requires":["CustomTabCompletions","CorePewPer"],
+  "helpMessage":"Run /ourhelp to view commands!"
+}
